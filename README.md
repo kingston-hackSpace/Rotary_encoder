@@ -69,9 +69,7 @@ Note: Each colour needs a resistor (220–330Ω).
 ----
 ### Code and instructions
 
-[Starter tutorial: reading rotation only]
-
-[Rotation + Push Button]
+[Starter tutorial: reading rotation steps and push button state]
 
 
 
