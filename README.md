@@ -69,7 +69,7 @@ Note: Each colour needs a resistor (220–330Ω).
 ----
 ### Code and instructions
 
-[Starter tutorial: reading rotation steps and push button state]
+[Starter tutorial: reading rotation steps and push button state](https://github.com/kingston-hackSpace/Rotary_encoder/blob/main/Rotary_and_button.ino)
 
 
 
