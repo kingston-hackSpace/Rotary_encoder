@@ -25,8 +25,19 @@ Read more [here](https://github.com/sparkfun/Rotary_Encoder_Breakout-Illuminated
 
 - Mounting Hole Spacing	15mm
 
-----
+---
 ### PINOUT
+
+- SW	Push-button switch output (active LOW).
+
+- A or CLK	Clock pin for quadrature signal (used to determine rotation and pulse count).
+
+- B or DT	Data pin for quadrature signal (used to determine rotation direction).
+
+- (+) Power supply pin (3.3V or 5V).
+  
+----
+### Wiring
 
 **FOR ROTATION:**
 
@@ -55,12 +66,12 @@ Note: Each colour needs a resistor (220–330Ω).
 
 - Rotary Encoder Pin + ---- to Arduino Pin 4
 
-***Notes:*** 
+----
+### Code and instructions
 
-SW	Push-button switch output (active LOW).
+[Starter tutorial: reading rotation only]
 
-DT	Data pin for quadrature signal (used to determine rotation direction).
+[Rotation + Push Button]
 
-CLK	Clock pin for quadrature signal (used to determine rotation and pulse count).
 
-+ Power supply pin (3.3V or 5V).
+
